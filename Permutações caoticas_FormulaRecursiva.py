@@ -6,6 +6,8 @@
 #a1 = 0, pois não existe permutação caótica em 1 único elemento.
 
 
+
+
 def T(n):
     if n==1:
         return 0
